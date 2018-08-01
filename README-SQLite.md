@@ -4,3 +4,4 @@
 ### [使用SimpleCursorAdapter](https://github.com/ningbaoqi/DataSave/blob/master/README-simple.md)
 ### [使用CursorAdapter](https://github.com/ningbaoqi/DataSave/blob/master/README-ada.md)
 ### [数据库分页加载](https://github.com/ningbaoqi/DataSave/blob/master/README-fenye.md)
+### [SQLite数据库的高级用法](https://github.com/ningbaoqi/DataSave/blob/master/README-gaodu.md)
