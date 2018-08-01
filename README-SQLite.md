@@ -3,3 +3,4 @@
 ### [使用SQLiteOpenHelper工具类和事务处理](https://github.com/ningbaoqi/DataSave/blob/master/README-helper.md)
 ### [使用SimpleCursorAdapter](https://github.com/ningbaoqi/DataSave/blob/master/README-simple.md)
 ### [使用CursorAdapter](https://github.com/ningbaoqi/DataSave/blob/master/README-ada.md)
+### [数据库分页加载](https://github.com/ningbaoqi/DataSave/blob/master/README-fenye.md)
